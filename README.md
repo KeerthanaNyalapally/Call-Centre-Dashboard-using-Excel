@@ -84,4 +84,4 @@ This project showcases an interactive Excel dashboard built to analyze and visua
 Inspired by real-world call center analytics and best practices in dashboard storytelling.
 
 
-# > Feel free to fork, use or improve this dashboard for your own projects. If you liked it, give it a ⭐️!
+ > Feel free to fork, use or improve this dashboard for your own projects. If you liked it, give it a ⭐️!
