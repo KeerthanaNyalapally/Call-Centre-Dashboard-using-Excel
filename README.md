@@ -1,38 +1,44 @@
 
 Greetings to the future Data Analyst, Here is the detailed explaination of the project.
 
-📞 Call Center Dashboard in Excel
+# 📞 Call Center Dashboard in Excel
 
 
-Project Overview
+# Project Overview
 
 This project showcases an interactive Excel dashboard built to analyze and visualize the performance of a call center. It combines advanced Excel techniques like DAX, PivotTables, Power Query, and dynamic visuals to deliver deep insights into call center KPIs, customer behavior, and representative performance.
 
 
 
-Tools & Features Used
+# Tools & Features Used
 
 1.Power Pivot & Data Model
+
 2.DAX (Data Analysis Expressions)
+
 3.PivotTables & PivotCharts
+
 4.Slicers & Conditional Formatting
+
 5.XLOOKUP, IF, and WEEKDAY formulas
+
 6.KPI Tiles, Bar/Line Charts.
+
 7.Design elements (themes, shapes, images)
 
 
 
-Key KPIs Calculated
+# Key KPIs Calculated
 
 - Total Call Count  
 - Total Purchase Amount  
 - Total Call Duration  
 - Average Satisfaction Rating  
-- # of Happy Callers (5-star ratings)
+- NO. of Happy Callers (5-star ratings)
 
 
 
-Project Methodology
+# Project Methodology
 
 1. Data Setup: Organized call data and customer details into two structured Excel tables.
 2. Theme Styling: Applied a custom theme with consistent colors and fonts for professional appearance.
@@ -51,7 +57,7 @@ Project Methodology
 
 
 
-Learnings
+# Learnings
 
 - Hands-on experience with Power Pivot and DAX in Excel
 - Built dynamic dashboards without VBA or macros
@@ -59,7 +65,7 @@ Learnings
 - Gained insights into customer behavior using basic data science logic
 
 
-How to Use
+# How to Use
 
 1. Open Call_Center_Dashboard.xlsx
 2. Use the slicer to filter by representative
@@ -68,9 +74,9 @@ How to Use
 
 
 
-Acknowledgments
+# Acknowledgments
 
 Inspired by real-world call center analytics and best practices in dashboard storytelling.
 
 
-> Feel free to fork, use or improve this dashboard for your own projects. If you liked it, give it a ⭐️!
+# > Feel free to fork, use or improve this dashboard for your own projects. If you liked it, give it a ⭐️!
