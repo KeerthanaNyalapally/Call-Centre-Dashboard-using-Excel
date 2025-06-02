@@ -71,7 +71,11 @@ This project showcases an interactive Excel dashboard built to analyze and visua
 2. Use the slicer to filter by representative
 3. Explore the KPI tiles, charts, and rep profile
 4. Dive into demographic and trend data to find insights
-
+   
+# Want to know the key insights of the project???
+  connect with me on linkedin
+  
+  (https://www.linkedin.com/in/keerthana-nyalapally/)
 
 
 # Acknowledgments
