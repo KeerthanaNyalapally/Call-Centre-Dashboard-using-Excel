@@ -73,9 +73,10 @@ This project showcases an interactive Excel dashboard built to analyze and visua
 4. Dive into demographic and trend data to find insights
    
 # Want to know the key insights of the project???
+
   connect with me on linkedin
   
-  (https://www.linkedin.com/in/keerthana-nyalapally/)
+  https://www.linkedin.com/in/keerthana-nyalapally/
 
 
 # Acknowledgments
