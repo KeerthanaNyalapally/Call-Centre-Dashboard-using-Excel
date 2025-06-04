@@ -1,7 +1,7 @@
 
 Greetings to the future Data Analyst, Here is the detailed explaination of the project.
 
-# 📞 Call Center Dashboard in Excel
+# 📞 Call Center Dashboard Using Excel
 
 
 # Project Overview
